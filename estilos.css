@@ -238,22 +238,22 @@ h1 {
 }
 @media only screen and (max-width: 768px) {
     .descarga-container {
-        flex-direction: column; /* Cambia a disposición de columna en pantallas pequeñas */
+        flex-direction: column;
         text-align: center;
     }
 
     .store-images {
-        flex-direction: row; /* Cambia a disposición de fila en pantallas pequeñas */
+        flex-direction: row;
         margin-bottom: 20px;
     }
 
     .store-images img {
-        margin: 0 10px; /* Ajusta el margen en pantallas pequeñas */
+        margin: 0 10px;
     }
 
     .phone-image img {
-        max-width: 80%; /* Ajusta el tamaño de la imagen del teléfono en pantallas pequeñas */
-        margin: 0 auto; /* Centra la imagen del teléfono en pantallas pequeñas */
+        max-width: 80%;
+        margin: 0 auto;
     }
 }
 /*Testimonios*/
@@ -299,11 +299,11 @@ h1 {
 }
 @media only screen and (max-width: 768px) {
     .testimonio-item img {
-        max-width: 50%; /* Ajusta el ancho máximo de las imágenes en pantallas pequeñas según tus necesidades */
+        max-width: 50%;
     }
 
     .testimonio-item {
-        width: 80%; /* Ajusta el ancho de los elementos de testimonio en pantallas pequeñas según tus necesidades */
+        width: 80%;
     }
 }
 /*Sobre nosotros*/
@@ -323,10 +323,10 @@ h1 {
 }
 @media only screen and (max-width: 768px) {
     .video-frame {
-        width: 80%; /* Ajusta el ancho del video en pantallas pequeñas según tus necesidades */
+        width: 80%;
     }
     .video-container video {
-        width: 100%; /* Ajusta el video al ancho del contenedor en dispositivos móviles */
+        width: 100%;
         height: auto;
     }
 }
@@ -371,8 +371,8 @@ h1 {
     }
 
     .preguntas-imagen {
-        margin-right: 0; /* Elimina el margen derecho en pantallas pequeñas */
-        margin-bottom: 10px; /* Añade un margen inferior para separar la imagen del texto en pantallas pequeñas */
+        margin-right: 0;
+        margin-bottom: 10px;
     }
 }
 /*Contactenos*/
