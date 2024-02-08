@@ -466,8 +466,9 @@ footer {
 #optionsContainer button {
     margin: 5px;
     padding: 5px;
-    background-color: #3498db;
+    background-color: #F5B43E;
     color: #fff;
     border: none;
+    border-radius: 5px;
     cursor: pointer;
 }
